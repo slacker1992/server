@@ -1,0 +1,16 @@
+
+Todo:
+  👉 Create New Employee  ✔️
+  👉 Update Employee      ✔️
+  👉 Delete Employee      ✔️
+  👉 Get Employees        ✔️
+  👉 Get One Employee     ✔️
+  👉 Pagination           ✔️
+  👉 Search               ✔️
+  👉 Async Errors         🟠
+  👉 Undefined Errors     🟠
+  👉 Unhandled Errors     🟠
+  👉 catch any errors     🟠
+  👉 Testing              🟠
+
+
